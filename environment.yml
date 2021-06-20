@@ -1,0 +1,7 @@
+name: RnG-Face-Detection
+dependencies:
+  - requests
+  - numpy
+  - pip
+  - pip:
+    - "-e git+https://github.com/Tylermarques/Sony-SNC-RZ25N.git#egg=SonySNCRZ25N"
